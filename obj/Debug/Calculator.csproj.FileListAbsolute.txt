@@ -4,3 +4,6 @@ c:\users\heresnk\documents\visual studio 2013\Projects\Calculator\Calculator\bin
 c:\users\heresnk\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
 c:\users\heresnk\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
 c:\users\heresnk\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\hereSNK\Documents\Visual Studio 2013\Projects\Calculator1\bin\Debug\Calculator.exe.config
+C:\Users\hereSNK\Documents\Visual Studio 2013\Projects\Calculator1\obj\Debug\Calculator.exe
+C:\Users\hereSNK\Documents\Visual Studio 2013\Projects\Calculator1\obj\Debug\Calculator.pdb
