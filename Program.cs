@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Calculator
 {
-    class Program
+    public class Program
     {
         public static void Main(string[] args)
         {
