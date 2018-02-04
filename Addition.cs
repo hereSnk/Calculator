@@ -11,9 +11,9 @@ namespace Calculator
         public int Add()
         {
             Console.WriteLine("Enter the numbers");
-            var x = Convert.ToInt32(Console.ReadLine());
-            var y = Convert.ToInt32(Console.ReadLine());
-            return x + y;
+            var c = Convert.ToInt32(Console.ReadLine());
+            var b = Convert.ToInt32(Console.ReadLine());
+            return b + c;
         }
     }
 }
